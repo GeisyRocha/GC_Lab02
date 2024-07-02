@@ -1,1 +1,1 @@
-"# GC_Lab02" 
+# Gerencia de Configuração_Lab02 
